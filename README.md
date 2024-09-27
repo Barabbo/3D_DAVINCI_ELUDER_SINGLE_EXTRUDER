@@ -50,7 +50,7 @@ This project is licensed under the GPL-3.0 License - see the LICENSE file for de
 i think i need to ean
 
 Acknowledgements
-A big thank you to the Marlin community and everyone involved in the development and testing of this firmware.
+A big thank you to the Marlin community and everyone involved in the development and testing of this firmware, Nick and Nick obsv
 
 Bye
 -BoBa-
